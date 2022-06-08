@@ -11,4 +11,7 @@
     <string name="photo_norvege">photo Norvege</string>
     <string name="norv_ge">Norvège</string>
     <string name="des_destinations_de_r_ve_rien_que_pour_vous">Des destinations de rêve rien que pour vous !</string>
+    <string name="adresse_mail">Adresse mail</string>
+    <string name="mot_de_passe">Mot de Passe</string>
+    <string name="connexion">Connexion</string>
 </resources>
