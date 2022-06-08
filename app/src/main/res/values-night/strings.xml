@@ -1,8 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">izaov2</string>
-    <string name="title_home">Découvrir</string>
-    <string name="title_dashboard">Mes Voyages</string>
-    <string name="title_notifications">Mon Compte</string>
     <string name="photo_australie">photo Australie</string>
     <string name="australie">Australie</string>
     <string name="photo_costa_rica">photo Costa Rica</string>
@@ -14,5 +11,4 @@
     <string name="photo_norvege">photo Norvege</string>
     <string name="norv_ge">Norvège</string>
     <string name="des_destinations_de_r_ve_rien_que_pour_vous">Des destinations de rêve rien que pour vous !</string>
-
 </resources>
