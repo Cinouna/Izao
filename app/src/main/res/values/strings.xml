@@ -17,5 +17,9 @@
     <string name="adresse_mail">Adresse mail</string>
     <string name="mot_de_passe">Mot de Passe</string>
     <string name="connexion">Connexion</string>
+    <string name="favoris">Favoris</string>
+    <string name="voyages_en_cours">Voyages en cours</string>
+    <string name="vacances_pass_s">Vacances passés</string>
+    <string name="vacances_pr_vus">Vacances prévus</string>
 
 </resources>
