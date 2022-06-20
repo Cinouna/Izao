@@ -7,6 +7,7 @@
     tools:context=".ui.notifications.NotificationsFragment">
 
     <LinearLayout
+        android:id="@+id/connect_layout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
@@ -64,6 +65,17 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Inscription" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fab_google"
+            android:src="@drawable/google-brands.svg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/white"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/connect_layout" />
 
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
