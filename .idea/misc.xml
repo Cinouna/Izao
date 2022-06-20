@@ -3,15 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Cino/AndroidStudioProjects/Izao/app/src/main/res/drawable/button_bg.xml" value="0.1825" />
         <entry key="..\:/Users/Cino/AndroidStudioProjects/Izao/app/src/main/res/drawable/circle.xml" value="0.214" />
         <entry key="..\:/Users/Cino/AndroidStudioProjects/Izao/app/src/main/res/drawable/ellipse_3.xml" value="0.214" />
         <entry key="..\:/Users/Cino/AndroidStudioProjects/Izao/app/src/main/res/drawable/profilecircle.xml" value="0.214" />
         <entry key="..\:/Users/Cino/AndroidStudioProjects/Izao/app/src/main/res/drawable/roundercorner.xml" value="0.214" />
         <entry key="..\:/Users/Cino/AndroidStudioProjects/Izao/app/src/main/res/drawable/vector.xml" value="0.214" />
+        <entry key="..\:/Users/Cino/AndroidStudioProjects/Izao/app/src/main/res/drawable/vie_bg.xml" value="0.1825" />
         <entry key="..\:/Users/Cino/AndroidStudioProjects/Izao/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/Cino/AndroidStudioProjects/Izao/app/src/main/res/layout/fragment_dashboard.xml" value="0.20697463768115942" />
         <entry key="..\:/Users/Cino/AndroidStudioProjects/Izao/app/src/main/res/layout/fragment_home.xml" value="0.2" />
         <entry key="..\:/Users/Cino/AndroidStudioProjects/Izao/app/src/main/res/layout/fragment_notifications.xml" value="0.264" />
+        <entry key="..\:/Users/Cino/AndroidStudioProjects/Izao/app/src/main/res/layout/login_tab_fragment.xml" value="0.19882246376811594" />
+        <entry key="..\:/Users/Cino/AndroidStudioProjects/Izao/app/src/main/res/layout/signup_tab_fragment.xml" value="0.19882246376811594" />
         <entry key="..\:/Users/Cino/AndroidStudioProjects/Izao/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
       </map>
     </option>
