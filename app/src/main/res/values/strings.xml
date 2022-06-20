@@ -21,5 +21,10 @@
     <string name="voyages_en_cours">Voyages en cours</string>
     <string name="vacances_pass_s">Vacances passés</string>
     <string name="vacances_pr_vus">Vacances prévus</string>
+    <string name="mdp_oublie">Mot de Passe oublié</string>
+    <string name="confirmer_mot_de_passe">Confirmer Mot de Passe</string>
+    <string name="inscription">Inscription</string>
+    <string name="pseudo">Pseudo</string>
+    <string name="slogan">Vos vacances réinventées</string>
 
 </resources>
